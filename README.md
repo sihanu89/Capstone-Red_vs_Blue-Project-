@@ -2,8 +2,8 @@
 
 Vulnerabilities in the capstone server was discovered and recommendation for system hardening was performed. Attack was carried out to gaining root access to vulnerable capstone machine and Kibana was used to review logs related to attack.
 
-![Slide 1](Images/Slide1)
-![Slide 2](Images/Slide2)
+![Slide 1](Images/Slide1.PNG)
+![Slide 2](Images/Slide2.PNG)
 ![Slide 3](Images/Slide3)
 ![Slide 4](Images/Slide4)
 ![Slide 5](Images/Slide5)
